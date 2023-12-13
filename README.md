@@ -3,7 +3,6 @@
 
 This is a game of chance where the player tries to guess a number from 1 to 6. If the player guesses correctly, they win. If the player guesses incorrectly, the computer restarts.
 
-```
 ## Game Rules
 
 **At the Start of the Game**
