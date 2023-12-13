@@ -3,6 +3,17 @@
 
 This is a game of chance where the player tries to guess a number from 1 to 6. If the player guesses correctly, they win. If the player guesses incorrectly, the computer restarts.
 
+$ ./games
+Enter a number (1-6): 3
+
+Congratulations! You have won!
+
+$ ./games
+
+Enter a number (1-6): 5
+
+You've lost! The computer's shutting down...
+
 ## Game Rules
 
 **At the Start of the Game**
